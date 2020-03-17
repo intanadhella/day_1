@@ -1,0 +1,16 @@
+.blue{
+    color: blue;
+}
+.black{
+    color: black;
+}
+.warnagreen{
+    color: rgb(166, 49, 205);
+    text-align: center;
+}
+.textright{
+    text-align: justify;
+}
+h2{
+    color: darkgoldenrod !important;
+}
